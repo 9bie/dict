@@ -23609,3 +23609,11 @@ mondrian/adhoc.jsp
 /admin666.php
 /admin888.php
 /admin999.php
+/webroot/decision/file?path=/WEB-INF/web.xml&type=plain&parser=plain
+/job-admin
+/RedseaPlatform/PtFjk.mob
+/RedseaPlatform
+/wui/index.html
+/emp/
+/emp/api/config/list
+/uai/
