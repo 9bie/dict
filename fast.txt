@@ -23617,3 +23617,5 @@ mondrian/adhoc.jsp
 /emp/
 /emp/api/config/list
 /uai/
+/messagebroker/amf
+/amf
