@@ -23619,3 +23619,7 @@ mondrian/adhoc.jsp
 /uai/
 /messagebroker/amf
 /amf
+/selfservice
+/mselfservice
+/mselfservice/user/modifyPwdNew.xhtml
+/selfservice/user/modifyPwdNew.xhtml
