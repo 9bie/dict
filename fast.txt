@@ -4,6 +4,12 @@
 %2e%2e//google.com
 %2e%2e;/test
 %3f/
+servlet/org.apache.axis.transport.http.AxisServlet
+servlet/bsh.servlet.BshServlet
+servlet/org.apache.soap.server.http.RPCRouterServlet
+org.apache.soap.server.http.RPCRouterServlet
+bsh.servlet.BshServlet
+org.apache.axis.transport.http.AxisServlet
 %C0%AE%C0%AE%C0%AF
 %EXT%
 %EXT%.bak
